@@ -1,6 +1,6 @@
 # Data Analysis: Classic Movies Dataset
 
-This repository demonstrates the process of cleaning a movie dataset, selecting classic movies released before 1935, visualizing the data using Seaborn, Big data analysis using PySpark and finally exporting the dataset into an unstructured Json data file.
+This repository demonstrates the process of cleaning a movie dataset, selecting classic movies released before 1935, visualizing the data using Seaborn, Big data analysis using PySpark and finally exporting the dataset into a semi-structured Json data file.
 
 ---
 1. **Data Cleaning Process**
