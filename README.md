@@ -1,6 +1,6 @@
 # Data Analysis: Classic Movies Dataset
 
-This repository demonstrates the process of cleaning a movie dataset, selecting classic movies released before 1935, visualizing the data using Seaborn, Big data analysis using PySpark and finally exporting the dataset into a semi-structured Json data file.
+This repository demonstrates the process of cleaning a movie dataset, selecting classic movies released before 1935, visualizing the data using Seaborn while conducting the Exploratory Data Analysis and finally exporting the dataset into a semi-structured Json data file. Recommendations were therefore made for the business based on the insights that was derived from the dataset.
 
 ---
 1. **Data Cleaning Process**
@@ -28,9 +28,27 @@ After processing and filtering, the cleaned dataset of classic movies was export
 
 Outputs data in newline-delimited JSON format, suitable for large datasets.
 
+
+## **6. Recommendations**
+
+1. The business can increase audience engagement, by giving more focus and 
+promotion to classic Movie title type as it is most engaging to many classic movie 
+lovers than Shorts title type.
+2. The top 10 highest rated movies can be used for headlining classic collection or 
+premium content collection as it demonstrates to be audience favourites and 
+critically acclaimed.
+3. Drama Sci-Fi genre, Drama Romance genre, and Comedy Drama Family genre 
+has large viewers engagement. The business can create genre specific collections 
+based on this audience interest.
+4. Business can align genre runtimes with audience preferences to recommend 
+content for users.  This can simply be achieved by including the runtime data into 
+algorithms to recommend films that fit a user’s time constraints or the user’s 
+preferences.
+
+
 ---
 
-## **6. Conclusion**
+## **7. Conclusion**
 
 This workflow highlights how to:
 1. Clean a dataset for accurate analysis.
